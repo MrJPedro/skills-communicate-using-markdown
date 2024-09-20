@@ -6,4 +6,9 @@
 ##  One Ring to rule them all, One Ring to find them,
 ##  One Ring to bring them all, and in the darkness bind them
 ### In the Land of Mordor where the Shadows lie.
+
 ![Image of The One Ring](https://tolkiengateway.net/w/images/thumb/c/ca/Donato_Giancola_-_The_Ruling_Ring.jpeg/320px-Donato_Giancola_-_The_Ruling_Ring.jpeg)
+
+``` c
+static myVar="Hello, world!";
+```
